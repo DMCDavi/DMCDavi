@@ -113,7 +113,7 @@ I'm a **Full-Stack Software Developer** with **5+ years** of professional experi
 
 <div align="center">
 
-### 📱 Theoprax - Car Spot Rental App (Thesis Project)
+### 📱 Car Spot Rental App (Thesis Project)
 
 *A complete mobile application for car spot rental with Flutter frontend and ASP.NET Core backend*
 
