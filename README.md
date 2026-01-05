@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Davi%20Machado%20Costa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AWS%20Certified&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Davi%20Machado%20Costa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=55&descSize=18)
 
 <div align="center">
 
@@ -27,7 +27,7 @@ const davi = {
 
 I'm a **Full-Stack Software Developer** with **5+ years** of professional experience and a Bachelor's degree in Computer Engineering. I specialize in designing, developing, and maintaining scalable applications with a focus on clean code, SOLID principles, and maintainable architectures.
 
-- 🔭 **Currently working at:** [MOVEdot (YC F25)](https://movedot.com) - Building cross-platform desktop apps with Electron and leading backend refactors with NestJS
+- 🔭 **Currently working at:** [MOVEdot (YC F25)](https://movedot.com) - Building cross-platform desktop apps, web applications and backend for AI agents for motorsports
 - 🌱 **Experience with:** Frontend, Backend, Desktop & Mobile Applications, Cloud Environments (AWS)
 - 💼 **Previous:** Fraunhofer IPT (Germany), CHAPP (Brazil)
 - 💬 **Ask me about:** React, NestJS, Flutter, ASP.NET Core, AWS, System Design
