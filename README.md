@@ -101,11 +101,6 @@ I'm a **Full-Stack Software Developer** with **5+ years** of professional experi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DMCDavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DMCDavi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMCDavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
 ### 📅 Contribution Graph
 
 [![Davi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DMCDavi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -122,15 +117,19 @@ I'm a **Full-Stack Software Developer** with **5+ years** of professional experi
 
 *A complete mobile application for car spot rental with Flutter frontend and ASP.NET Core backend*
 
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=DreamTeamJOJO&repo=theoprax_backend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1)](https://github.com/DreamTeamJOJO/theoprax_backend)
-[![Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=DreamTeamJOJO&repo=theoprax_app_mobile&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1)](https://github.com/DreamTeamJOJO/theoprax_app_mobile)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**theoprax_backend**](https://github.com/DreamTeamJOJO/theoprax_backend) | Backend API for car spot reservation system | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [**theoprax_app_mobile**](https://github.com/DreamTeamJOJO/theoprax_app_mobile) | Mobile app for car spot rental | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
 ### 🏃 Atlética Management System
 
 *Web system for university athletics management*
 
-[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Pecas-Projects&repo=front-atletica&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1)](https://github.com/Pecas-Projects/front-atletica)
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=Pecas-Projects&repo=back-atletica&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1)](https://github.com/Pecas-Projects/back-atletica)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**front-atletica**](https://github.com/Pecas-Projects/front-atletica) | Frontend web application | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**back-atletica**](https://github.com/Pecas-Projects/back-atletica) | Backend API services | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 
 </div>
 
