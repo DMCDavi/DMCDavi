@@ -122,7 +122,7 @@ I'm a **Full-Stack Software Developer** with **5+ years** of professional experi
 | [**theoprax_backend**](https://github.com/DreamTeamJOJO/theoprax_backend) | Backend API for car spot reservation system | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | [**theoprax_app_mobile**](https://github.com/DreamTeamJOJO/theoprax_app_mobile) | Mobile app for car spot rental | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
-### 🏃 Atlética Management System
+### 🏃 University Athletics Management System
 
 *Web system for university athletics management*
 
